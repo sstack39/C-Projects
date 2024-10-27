@@ -1,0 +1,9 @@
+C:\Users\britt\OneDrive\Desktop\C#1 REDO\C# Assignments\C# Assignments\Assignment 5\StackA5\StackA5\bin\Debug\net8.0\StackA5.exe
+C:\Users\britt\OneDrive\Desktop\C#1 REDO\C# Assignments\C# Assignments\Assignment 5\StackA5\StackA5\bin\Debug\net8.0\StackA5.dll
+C:\Users\britt\OneDrive\Desktop\C#1 REDO\C# Assignments\C# Assignments\Assignment 5\StackA5\StackA5\obj\Debug\net8.0\StackA5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britt\OneDrive\Desktop\C#1 REDO\C# Assignments\C# Assignments\Assignment 5\StackA5\StackA5\obj\Debug\net8.0\StackA5.AssemblyInfoInputs.cache
+C:\Users\britt\OneDrive\Desktop\C#1 REDO\C# Assignments\C# Assignments\Assignment 5\StackA5\StackA5\obj\Debug\net8.0\StackA5.AssemblyInfo.cs
+C:\Users\britt\OneDrive\Desktop\C#1 REDO\C# Assignments\C# Assignments\Assignment 5\StackA5\StackA5\obj\Debug\net8.0\StackA5.csproj.CoreCompileInputs.cache
+C:\Users\britt\OneDrive\Desktop\C#1 REDO\C# Assignments\C# Assignments\Assignment 5\StackA5\StackA5\obj\Debug\net8.0\StackA5.dll
+C:\Users\britt\OneDrive\Desktop\C#1 REDO\C# Assignments\C# Assignments\Assignment 5\StackA5\StackA5\obj\Debug\net8.0\refint\StackA5.dll
+C:\Users\britt\OneDrive\Desktop\C#1 REDO\C# Assignments\C# Assignments\Assignment 5\StackA5\StackA5\obj\Debug\net8.0\StackA5.pdb

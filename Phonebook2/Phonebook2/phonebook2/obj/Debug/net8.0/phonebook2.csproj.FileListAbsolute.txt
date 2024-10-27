@@ -1,0 +1,14 @@
+C:\Users\seans\source\repos\phonebook2\bin\Debug\net8.0\phonebook2.exe
+C:\Users\seans\source\repos\phonebook2\bin\Debug\net8.0\phonebook2.deps.json
+C:\Users\seans\source\repos\phonebook2\bin\Debug\net8.0\phonebook2.runtimeconfig.json
+C:\Users\seans\source\repos\phonebook2\bin\Debug\net8.0\phonebook2.dll
+C:\Users\seans\source\repos\phonebook2\bin\Debug\net8.0\phonebook2.pdb
+C:\Users\seans\source\repos\phonebook2\obj\Debug\net8.0\phonebook2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seans\source\repos\phonebook2\obj\Debug\net8.0\phonebook2.AssemblyInfoInputs.cache
+C:\Users\seans\source\repos\phonebook2\obj\Debug\net8.0\phonebook2.AssemblyInfo.cs
+C:\Users\seans\source\repos\phonebook2\obj\Debug\net8.0\phonebook2.csproj.CoreCompileInputs.cache
+C:\Users\seans\source\repos\phonebook2\obj\Debug\net8.0\phonebook2.dll
+C:\Users\seans\source\repos\phonebook2\obj\Debug\net8.0\refint\phonebook2.dll
+C:\Users\seans\source\repos\phonebook2\obj\Debug\net8.0\phonebook2.pdb
+C:\Users\seans\source\repos\phonebook2\obj\Debug\net8.0\phonebook2.genruntimeconfig.cache
+C:\Users\seans\source\repos\phonebook2\obj\Debug\net8.0\ref\phonebook2.dll
